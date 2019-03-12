@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Metropolis";
+    src: url("https://github.com/wu-thang/thangvle.com/blob/master/Fonts/Metropolis-Thin/Metropolis-Thin.eot") format('eot');
+}
+p {
+    font-family: "Metropolis";
+    font-size: 24px;
+}
